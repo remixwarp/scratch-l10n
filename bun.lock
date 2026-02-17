@@ -3,7 +3,7 @@
   "configVersion": 1,
   "workspaces": {
     "": {
-      "name": "@bilup/scratch-l10n",
+      "name": "@remixwarp/scratch-l10n",
       "dependencies": {
         "@babel/cli": "^7.1.2",
         "@babel/core": "^7.1.2",

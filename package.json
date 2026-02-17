@@ -1,5 +1,5 @@
 {
-  "name": "@bilup/scratch-l10n",
+  "name": "@remixwarp/scratch-l10n",
   "version": "3.1001.0",
   "description": "Minified scratch-l10n for TurboWarp",
   "main": "./dist/l10n.js",
