@@ -5,7 +5,8 @@
 
 const locales = {
     'en': {name: 'English'},
-    'zh-cn': {name: '简体中文'}
+    'zh-cn': {name: '简体中文'},
+    'zh-cn2': {name: '梗体中文'}
 };
 
 const customLocales = {
