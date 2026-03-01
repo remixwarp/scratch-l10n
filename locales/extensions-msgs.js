@@ -430,7 +430,7 @@ export default {
     "wedo2.whenDistance": "当距离[OP][REFERENCE]",
     "wedo2.whenTilted": "当向[TILT_DIRECTION_ANY]倾斜"
   },
-  "zh-cn2": {
+  "zh-geng": {
     "boost.color.any": "随便啥色",
     "boost.color.black": "乌漆嘛黑",
     "boost.color.blue": "蓝精灵",

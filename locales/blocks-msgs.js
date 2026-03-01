@@ -570,7 +570,7 @@ export default {
     "BROADCAST_MODAL_TITLE": "新消息",
     "DEFAULT_BROADCAST_MESSAGE_NAME": "消息1"
   },
-  "zh-cn2": {
+  "zh-geng": {
     "CONTROL_FOREVER": "一直重复",
     "CONTROL_REPEAT": "重复 %1 次",
     "CONTROL_IF": "如果 %1 就",

@@ -1056,7 +1056,7 @@ export default {
     "gui.theme.highContrast": "High Contrast",
     "gui.gui.defaultProjectTitle": "Scratch作品"
   },
-  "zh-cn2": {
+  "zh-geng": {
     "gui.alerts.lostPeripheralConnection": "Scratch和{extensionName}的连接断了，裂开了",
     "gui.alerts.tryAgain": "再来一次",
     "gui.alerts.download": "下载",

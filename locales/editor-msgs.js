@@ -1639,7 +1639,7 @@ export default {
     "paint.sussyTool.shape.codeblockReporter": "报告块",
     "paint.sussyTool.shape.codeblockBoolean": "布尔块"
   },
-  "zh-cn2": {
+  "zh-geng": {
     "gui.alerts.lostPeripheralConnection": "Scratch和{extensionName}的连接断了，裂开了",
     "gui.alerts.tryAgain": "再来一次",
     "gui.alerts.download": "下载",

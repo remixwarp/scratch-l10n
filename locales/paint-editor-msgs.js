@@ -167,7 +167,7 @@ export default {
     "paint.sussyTool.shape.codeblockReporter": "报告块",
     "paint.sussyTool.shape.codeblockBoolean": "布尔块"
   },
-  "zh-cn2": {
+  "zh-geng": {
     "paint.paintEditor.hue": "颜色",
     "paint.paintEditor.saturation": "饱和度",
     "paint.paintEditor.brightness": "亮度",
