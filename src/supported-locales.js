@@ -14,6 +14,10 @@ const customLocales = {
     'zh-cn': {
         locale: 'zh-cn',
         parentLocale: 'zh'
+    },
+    'zh-cn2': {
+        locale: 'zh-cn2',
+        parentLocale: 'zh'
     }
 };
 
