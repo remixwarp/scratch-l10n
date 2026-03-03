@@ -5,8 +5,7 @@
 
 const locales = {
     'en': {name: 'English'},
-    'zh-cn': {name: '简体中文'},
-    'zh-geng': {name: '梗体中文'}
+    'zh-cn': {name: '简体中文'}
 };
 
 const customLocales = {
@@ -14,16 +13,11 @@ const customLocales = {
     'zh-cn': {
         locale: 'zh-cn',
         parentLocale: 'zh'
-    },
-    'zh-geng': {
-        locale: 'zh-geng',
-        parentLocale: 'zh'
     }
 };
 
 const localeMap = {
-    'zh-cn': 'zh_CN',
-    'zh-geng': 'zh_CN'
+    'zh-cn': 'zh_CN'
 };
 
 // list of RTL locales supported, and a function to check whether a locale is RTL
