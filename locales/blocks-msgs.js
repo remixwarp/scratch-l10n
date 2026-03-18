@@ -522,7 +522,7 @@ export default {
     "CATEGORY_SENSING": "侦测",
     "CATEGORY_OPERATORS": "运算",
     "CATEGORY_VARIABLES": "变量",
-    "CATEGORY_MYBLOCKS": "自制积木",
+    "CATEGORY_MYBLOCKS": "函数",
     "DUPLICATE": "复制",
     "DELETE": "删除",
     "ADD_COMMENT": "添加注释",
