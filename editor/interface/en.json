@@ -531,5 +531,11 @@
     "gui.theme.default": "Original",
     "gui.theme.dark": "Dark",
     "gui.theme.highContrast": "High Contrast",
-    "gui.gui.defaultProjectTitle": "Scratch Project"
+    "gui.gui.defaultProjectTitle": "Scratch Project",
+    "gui.collaboration.captchaTitle": "Human Verification",
+    "gui.collaboration.captchaDescription": "Please complete the verification to create a room.",
+    "gui.collaboration.captchaLabel": "Answer",
+    "gui.collaboration.verifyCaptcha": "Verify",
+    "gui.collaboration.newCaptcha": "New Challenge",
+    "gui.collaboration.cancelVerification": "Cancel"
 }
