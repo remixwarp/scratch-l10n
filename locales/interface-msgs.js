@@ -533,7 +533,13 @@ export default {
     "gui.theme.default": "Original",
     "gui.theme.dark": "Dark",
     "gui.theme.highContrast": "High Contrast",
-    "gui.gui.defaultProjectTitle": "Scratch Project"
+    "gui.gui.defaultProjectTitle": "Scratch Project",
+    "gui.collaboration.captchaTitle": "Human Verification",
+    "gui.collaboration.captchaDescription": "Please complete the verification to create a room.",
+    "gui.collaboration.captchaLabel": "Answer",
+    "gui.collaboration.verifyCaptcha": "Verify",
+    "gui.collaboration.newCaptcha": "New Challenge",
+    "gui.collaboration.cancelVerification": "Cancel"
   },
   "zh-cn": {
     "gui.alerts.lostPeripheralConnection": "Scratch与{extensionName}的连接已断开。",
@@ -1068,6 +1074,12 @@ export default {
     "gui.theme.default": "Original",
     "gui.theme.dark": "Dark",
     "gui.theme.highContrast": "High Contrast",
-    "gui.gui.defaultProjectTitle": "Scratch作品"
+    "gui.gui.defaultProjectTitle": "Scratch作品",
+    "gui.collaboration.captchaTitle": "人机验证",
+    "gui.collaboration.captchaDescription": "请完成验证以创建房间。",
+    "gui.collaboration.captchaLabel": "答案",
+    "gui.collaboration.verifyCaptcha": "验证",
+    "gui.collaboration.newCaptcha": "新挑战",
+    "gui.collaboration.cancelVerification": "取消"
   }
 };
