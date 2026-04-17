@@ -217,6 +217,7 @@
     "gui.spriteSelector.addSpriteFromFile": "上传角色",
     "gui.stageHeader.stageSizeLarge": "放大舞台",
     "gui.stageHeader.stageSizeSmall": "缩小舞台",
+    "gui.stageHeader.stageSizeInitial": "初始大小",
     "gui.stageHeader.stageSizeFull": "进入全屏模式",
     "gui.stageHeader.stageSizeUnFull": "退出全屏模式",
     "gui.stageHeader.fullscreenControl": "全屏模式",
