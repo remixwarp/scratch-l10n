@@ -1,7 +1,7 @@
 {
-  "name": "@remixwarp/scratch-l10n",
+  "name": "@bilup/scratch-l10n",
   "version": "3.1001.0",
-  "description": "Minified scratch-l10n for TurboWarp",
+  "description": "Minified scratch-l10n for Bilup",
   "main": "./dist/l10n.js",
   "browser": "./src/index.js",
   "bin": {
@@ -13,27 +13,26 @@
     "clean": "rimraf ./dist ./locales && mkdirp dist locales",
     "lint": "npm run lint:js && npm run lint:json",
     "lint:js": "eslint . --ext .js",
-    "lint:json": "jshint -e .json www editor/blocks editor/extensions editor/interface editor/paint-editor",
-    "test": "npm run lint:js && npm run validate:editor && npm run validate:www && npm run build && npm run lint:json",
+    "lint:json": "jshint -e .json editor/blocks editor/extensions editor/interface editor/paint-editor",
+    "test": "npm run lint:js && npm run validate:editor && npm run build && npm run lint:json",
     "tw:publish": "./scripts/tw-publish.sh",
     "update": "scripts/update-translations.sh",
     "validate:blocks": "babel-node scripts/validate-translations ./editor/blocks/",
     "validate:editor": "npm run validate:blocks && npm run validate:extensions && npm run validate:interface && npm run validate:paint",
     "validate:extensions": "babel-node scripts/validate-translations ./editor/extensions/ && babel-node scripts/validate-extension-inputs",
     "validate:interface": "babel-node scripts/validate-translations ./editor/interface/",
-    "validate:paint": "babel-node scripts/validate-translations ./editor/paint-editor/",
-    "validate:www": "babel-node scripts/validate-www ./www"
+    "validate:paint": "babel-node scripts/validate-translations ./editor/paint-editor/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TurboWarp/scratch-l10n.git"
+    "url": "git+https://github.com/Bilup/scratch-l10n.git"
   },
-  "author": "Thomas Weber",
+  "author": "Bilup",
   "license": "BSD-3-Clause",
   "bugs": {
-    "url": "https://github.com/TurboWarp/scratch-l10n/issues"
+    "url": "https://github.com/Bilup/scratch-l10n/issues"
   },
-  "homepage": "https://github.com/TurboWarp/scratch-l10n#readme",
+  "homepage": "https://github.com/Bilup/scratch-l10n#readme",
   "dependencies": {
     "@babel/cli": "^7.1.2",
     "@babel/core": "^7.1.2",

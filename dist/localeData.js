@@ -3053,12 +3053,6 @@ var locales = {
   },
   'zh-cn': {
     name: '简体中文'
-  },
-  'wyw': {
-    name: '文言文'
-  },
-  'gdzx': {
-    name: '梗体中文'
   }
 };
 var customLocales = {
@@ -3066,20 +3060,10 @@ var customLocales = {
   'zh-cn': {
     locale: 'zh-cn',
     parentLocale: 'zh'
-  },
-  'wyw': {
-    locale: 'wyw',
-    parentLocale: 'zh'
-  },
-  'gdzx': {
-    locale: 'gdzx',
-    parentLocale: 'zh'
   }
 };
 var localeMap = {
-  'zh-cn': 'zh_CN',
-  'wyw': 'zh_CN',
-  'gdzx': 'zh_CN'
+  'zh-cn': 'zh_CN'
 };
 
 // list of RTL locales supported, and a function to check whether a locale is RTL

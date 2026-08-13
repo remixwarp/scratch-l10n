@@ -1,25 +1,12 @@
-# @turbowarp/scratch-l10n
+# @bilup/scratch-l10n
 
-This repository contains translations for TurboWarp projects.
+This repository contains translations for Bilup projects.
 
 ## Scripts
 
-This repository also contains scripts that we use to maintain TurboWarp's translations. They assume you have a directory laid out with `scratch-l10n`, `scratch-gui`, `turbowarp-desktop`, and `packager` in the same parent folder.
+This repository also contains scripts that we use to maintain Bilup's translations. They assume you have a directory laid out with `scratch-l10n`, `scratch-gui`, `desktop`, and `packager` in the same parent folder.
 
-Download all translations:
-
+build the translations:
 ```bash
-npm run tw:pull
-```
-
-Upload translations:
-
-```bash
-npm run tw:push
-```
-
-Publish minified scratch-l10n to npm:
-
-```bash
-npm run tw:publish
+npm run build
 ```

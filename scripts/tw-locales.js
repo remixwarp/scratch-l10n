@@ -2,7 +2,7 @@ import vanillaLocales, {localeMap} from '../src/supported-locales';
 
 const SKIP_LOCALES = [
     // For es-419, we just use normal Spanish
-    //'es-419'
+    // 'es-419'
 ];
 
 /** @type {Record<string, {name: string}>} */
