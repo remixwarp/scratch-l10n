@@ -263,6 +263,7 @@
     "gui.alerts.creatingCopy": "正在复制作品……",
     "gui.alerts.creatingRemix": "正在改编作品……",
     "gui.alerts.creatingError": "无法创建作品。 请再试一次！",
+    "gui.alerts.twCustomBlockPercent": "自制积木里不允许有百分号",
     "gui.alerts.savingError": "作品未能保存。",
     "gui.alerts.savesuccess": "作品已保存。",
     "gui.alerts.saving": "正在保存作品……",
