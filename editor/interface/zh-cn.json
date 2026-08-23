@@ -622,5 +622,6 @@
     "rw.devtools.tracer.filter": "筛选",
     "rw.devtools.tracer.empty": "尚未捕获事件。启动项目或发送一个自定义事件。",
     "rw.devtools.tracer.count": "{count}",
-    "rw.devtools.tracer.at": "于 "
+    "rw.devtools.tracer.at": "于 ",
+    "tw.toast.close": "关闭通知"
 }

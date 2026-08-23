@@ -620,5 +620,6 @@
     "rw.devtools.tracer.filter": "Filter",
     "rw.devtools.tracer.empty": "No events captured yet. Start the project or send a custom event.",
     "rw.devtools.tracer.count": "{count}",
-    "rw.devtools.tracer.at": "at "
+    "rw.devtools.tracer.at": "at ",
+    "tw.toast.close": "Close notification"
 }
