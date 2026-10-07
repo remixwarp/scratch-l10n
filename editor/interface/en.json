@@ -126,6 +126,7 @@
     "gui.menuBar.new": "New",
     "gui.menuBar.file": "File",
     "tw.menuBar.publishToRwck": "Publish to Rwck",
+    "gui.menuBar.publishRwck": "Publish to Rwck",
     "gui.menuBar.downloadToComputer": "Save to your computer",
     "gui.menuBar.edit": "Edit",
     "gui.menuBar.turboModeOff": "Turn off Turbo Mode",
