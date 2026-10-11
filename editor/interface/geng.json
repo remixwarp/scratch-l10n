@@ -126,6 +126,7 @@
   "gui.menuBar.remix": "改编",
   "gui.menuBar.new": "新作品",
   "gui.menuBar.file": "文件",
+  "gui.menuBar.publishRwck": "发布到创客次元",
   "gui.menuBar.downloadToComputer": "保存到电脑",
   "gui.menuBar.edit": "编辑",
   "gui.menuBar.turboModeOff": "关闭加速模式",
